@@ -1,6 +1,6 @@
 cask "tingle" do
-  version "0.6.0"
-  sha256 "ba4f509b35803c27b189fd4e96783d2aaf68d49fe9238ee58dff3496a73f9bd6"
+  version "0.6.1"
+  sha256 "05036f55b6855962d5062875aa547454ffad920db97226ac704c3384b3f05a6f"
 
   url "https://github.com/tutorintelligence/tingle/releases/download/v#{version}/tingle-#{version}.zip"
   name "tingle"
